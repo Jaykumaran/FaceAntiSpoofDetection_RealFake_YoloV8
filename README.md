@@ -1,4 +1,4 @@
-# FaceAntiSpoofDetection_Livess_YoloV8
+# FaceAntiSpoofDetection_Liveness_YoloV8
 
 - Train Model In GColab
 - Reference :  'https://youtu.be/LqzPifvd09Q?feature=shared'
